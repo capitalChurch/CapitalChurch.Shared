@@ -1,4 +1,4 @@
-#Capital Church Shared
+# Capital Church Shared
 This is a project to be available on nuget
 
 https://www.nuget.org/packages/CapitalChurch.Shared/
